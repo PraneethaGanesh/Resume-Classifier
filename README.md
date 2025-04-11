@@ -5,6 +5,8 @@ This is a Python-based machine learning project that classifies resumes into pre
 
 A smart and automated way to sort resumes into categories like Data Science, Web Development, and more! The project features an interactive Jupyter Notebook and is fully containerized using Docker 🐳.
 
+# Live Demo: https://huggingface.co/spaces/Praneetha11013/Resume_Classifier
+
 ## ✨ Features
 🚀 Text Preprocessing – Tokenization, stopword removal, TF-IDF vectorization
 
