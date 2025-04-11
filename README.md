@@ -7,9 +7,13 @@ A smart and automated way to sort resumes into categories like Data Science, Web
 
 ## ✨ Features
 🚀 Text Preprocessing – Tokenization, stopword removal, TF-IDF vectorization
+
 🧠 ML Models – Train classifiers like Naive Bayes, SVM, etc.
-📊 Evaluation – View metrics like accuracy and confusion matrix
+
+📊 Evaluation – View metrics like accuracy and the confusion matrix
+
 🔁 Modular Design – Easily add new categories or models
+
 📦 Dockerized – Run it anywhere with one command
 
 ## 💻 Usage
